@@ -1,4 +1,5 @@
 *.swp
 *.osm
 *.o
+*.json
 build/
